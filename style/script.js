@@ -14,8 +14,8 @@ const FallingMess = [
 ];
 const fallingImg = [];
 
-for (let i = 1; i <= 12; i++) {
-  fallingImg.push(`style/img/Anh (${i}).jpg`);
+for (let i = 1; i <= 18; i++) {
+  fallingImg.push(`style/img/Anh(${i}).jpg`);
 }
 
 const starCanvas = document.getElementById("star-canvas");
